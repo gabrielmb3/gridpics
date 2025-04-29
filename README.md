@@ -21,7 +21,7 @@ O projeto consiste em dois arquivos principais:
 
 ## Como Utilizar
 
-Para utilizar este projeto, basta clonar ou baixar o repositório e abrir o arquivo `index.html` em um navegador da web.
+Para utilizar este projeto, basta clonar ou baixar o repositório e abrir o arquivo `index. html` em um navegador da web.
 
 ```bash
 git clone https://github.com/gabrielmb3/gridpics
